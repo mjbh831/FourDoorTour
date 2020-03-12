@@ -1,2 +1,2 @@
 # FourDoorTour
-sample travel website I made for fun.
+Sample travel website I made for fun.
